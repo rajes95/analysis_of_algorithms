@@ -1,2 +1,2 @@
 # Analysis of Algorithms
-Introductory Algorithms Course
+Introductory Algorithms Examples
