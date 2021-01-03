@@ -1,2 +1,2 @@
-# cs5006_analysis_of_algorithms
+#Analysis of Algorithms
 Introductory Algorithms Course
